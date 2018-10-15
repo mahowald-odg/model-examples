@@ -1,7 +1,9 @@
 {
   "Transport": {
     "Type": "kafka",
-    "BootstrapServers": ["172.17.0.1:9092"],
+    "BootstrapServers": [
+      "172.17.0.1:9092"
+    ],
     "Topic": "input"
   },
   "Envelope": null,
