@@ -1,0 +1,1 @@
+{"fields": [{"type": "double", "name": "LR"}, {"type": "double", "name": "CPI"}], "type": "record", "name": "adjustment"}
