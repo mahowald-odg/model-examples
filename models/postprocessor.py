@@ -2,6 +2,7 @@
 # fastscore.schema.2: adjustment
 # fastscore.schema.1: double
 
+# this is another test to show git integration
 
 def begin():
     global adjustments, predictions
