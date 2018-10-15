@@ -1,0 +1,1 @@
+{"fields": [{"type": "string", "name": "type"}, {"type": "string", "name": "timestamp"}, {"type": "string", "name": "state"}, {"type": "string", "name": "src"}], "type": "record", "name": "enginestate"}
