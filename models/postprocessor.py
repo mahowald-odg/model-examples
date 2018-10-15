@@ -2,6 +2,7 @@
 # fastscore.schema.2: adjustment
 # fastscore.schema.1: double
 
+
 def begin():
     global adjustments, predictions
     adjustments = []
