@@ -4,4 +4,4 @@
 
 def action(datum):
     yield (1, datum)
-yield (3, datum)
+    yield (3, datum)
