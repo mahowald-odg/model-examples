@@ -1,4 +1,2 @@
-{
-  "type": "array",
-  "items": "string"
-}
+
+{"type":"array", "items":"double"}
