@@ -2,4 +2,4 @@
 # fastscore.schema.1: array-double
 
 def action(datum):
-yield [datum]
+    yield [datum]
