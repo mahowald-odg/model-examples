@@ -1,1 +1,1 @@
-{"Version": "1.2", "Envelope": "delimited", "Loop": true, "Transport": {"Path": "/tmp/data/input.jsons", "Type": "file"}, "Encoding": "json"}
+{"Version": "1.2", "Envelope": "delimited", "Loop": true, "Transport": {"Path": "/root/data/input.jsons", "Type": "file"}, "Encoding": "json"}
