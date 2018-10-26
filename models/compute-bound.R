@@ -3,7 +3,7 @@
 
 
 action <- function(x){
-    dim <- 2500
+    dim <- 500
     m <- matrix(rnorm(dim*dim), ncol=dim, nrow=dim)
     y <- solve(m)
     emit(y[1,1])
