@@ -3,6 +3,6 @@
 
 
 action <- function(datum) {
-    output <- list(x=datum, y=datum*datum)
+    output <- list(x=datum + 1, y=datum*datum)
     emit(output)
 }
