@@ -1,0 +1,1 @@
+{"Transport": {"Type": "REST", "Mode": "chunked"}, "Encoding": "json", "Envelope": "delimited", "Schema": {"$ref": "sch_out"}, "Batching": "explicit"}
