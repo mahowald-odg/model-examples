@@ -1,0 +1,1 @@
+{"type": "record", "name": "xy", "fields": [{"name": "x", "type": "double"}, {"name": "y", "type": "double"}]}
